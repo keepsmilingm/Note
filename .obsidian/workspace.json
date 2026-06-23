@@ -11,13 +11,12 @@
             "id": "58cf54933b7d17fd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "Excalidraw/Drawing 2026-06-23 17.29.36.excalidraw.md"
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-23 17.29.36.excalidraw"
             }
           },
           {
@@ -208,11 +207,11 @@
   },
   "active": "58cf54933b7d17fd",
   "lastOpenFiles": [
+    "未命名.base",
     "Excalidraw/Drawing 2026-06-23 17.29.36.excalidraw.md",
     "欢迎.md",
     "Excalidraw",
     "未命名.md",
-    "未命名 1.base",
-    "未命名.base"
+    "未命名 1.base"
   ]
 }
