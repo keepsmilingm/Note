@@ -184,6 +184,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8ee399813310584b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-23 17.29.36.excalidraw.md"
+              },
+              "icon": "lucide-info",
+              "title": "Drawing 2026-06-23 17.29.36.excalidraw的笔记属性"
+            }
           }
         ],
         "currentTab": 5
@@ -205,7 +217,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "58cf54933b7d17fd",
+  "active": "8ee399813310584b",
   "lastOpenFiles": [
     "未命名.base",
     "Excalidraw/Drawing 2026-06-23 17.29.36.excalidraw.md",
